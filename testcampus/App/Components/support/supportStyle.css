@@ -1,0 +1,12 @@
+h1{
+    color:rgb(0, 0, 0);
+}
+.first-message{
+    text-align: center;
+}
+.preguntas{
+    text-align: center;
+    margin-top: 500px;
+    border-style: double;
+    background-color: aqua;
+}
